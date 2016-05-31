@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB2AC532-96EC-4584-ACFC-BC43E1393240</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JPush</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B94F48B613A094F83E4A24BA4939959D5EDEDF5F</key>
+		<string>ssh://gitlab.captain.bengjiujie.com:1022/iOS/JPush.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JPush/JPush.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B94F48B613A094F83E4A24BA4939959D5EDEDF5F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://gitlab.captain.bengjiujie.com:1022/iOS/JPush.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B94F48B613A094F83E4A24BA4939959D5EDEDF5F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B94F48B613A094F83E4A24BA4939959D5EDEDF5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JPush</string>
+		</dict>
+	</array>
+</dict>
+</plist>
